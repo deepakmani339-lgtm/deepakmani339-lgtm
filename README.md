@@ -1,35 +1,38 @@
 <div align="center">
-    <img src="https://github.com/ManiDeepak/deepakmani339/blob/main/git_banner1.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/ManiDeepak/deepakmani339/blob/main/git_banner1.png" alt="GitHub Banner" width="800"/>
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ManiDeepak Kovvuru
-===========================================================================================================================================
-
-Software Engineer I  - SRE @ Zeta
-------------------
-
-🚀 DevOps professional with 4+ As a Site Reliability Operation Engineer at Zeta, I contribute to enhancing cloud infrastructure security, reliability, and cost-efficiency through automation and monitoring advancements. My responsibilities include refactoring Helm charts to improve centralised alerting and cluster health checks, deploying code with the CMR process, and implementing tools such as Jenkins, ELK, Grafana, and Ansible to optimise CI/CD pipelines and ensure operational consistency. 
-🌟 Let’s work together to bring success to your cloud projects!
-
-* 🌍  I'm based in hyderabad, India
-* ✉️  You can contact me at [deepakmai339@gmail.com](mailto:deepakmai339@gmail.com)
-* 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts, service meshes, and Kubernetes security for better orchestration and cluster management.
-* 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS, Azure, and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines with Azure DevOps, GitHub Actions, and Jenkins to improve software delivery speed and reliability. Containerization Solutions: Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency. Technical Blogging: Co-authoring blogs or articles on topics related to DevOps, cloud automation, Docker, or Kubernetes to share knowledge and insights.
-* ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry. Mentorship: I am passionate about mentoring budding DevOps engineers, guiding them through cloud concepts, CI/CD, and best practices in automation. Hackathons & Events: I am enthusiastic about participating in hackathons, conferences, and tech meetups to collaborate, learn, and share insights with the community. Feedback & Improvement: I am always open to feedback to enhance my skills and contribute better to cloud projects and team efforts.
-
-### Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+# 👋 Hi, I'm ManiDeepak Kovvuru
+# 💫 About Me: 
+ 🌍 I'm based in hyderabad, India<br>* ✉️  You can contact me at [deepakmai339@gmail.com](mailto:deepakmai339@gmail.com)<br>* 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts, service meshes, and Kubernetes security for better orchestration and cluster management.
+ As a Site Reliability Operation Engineer at Zeta, I contribute to enhancing cloud infrastructure security, reliability, and cost-efficiency through automation and monitoring advancements. My responsibilities include refactoring Helm charts to improve centralised alerting and cluster health checks, deploying code with the CMR process, and implementing tools such as Jenkins, ELK, Grafana, and Ansible to optimise CI/CD pipelines and ensure operational consistency. 
 
 
-### Socials
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manideepak-kovvuru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakmani339@gmail.com) 
 
-<p align="left"> <a href="https://www.github.com/deepakmani339-lgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haripalepu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@hareepalepu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+# 💻 Tech Stack:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💼 Career Snapshot
+
+- 🏢 **Zeta** – *Site Reliability Operation Engineer – SRE*  
+  As a Site Reliability Engineer at Zeta, I focus on optimizing cloud infrastructure security, cost-efficiency, and reliability through automation and monitoring improvements.Jenkins(CICD), ELK(Log Management), Grafana(Monitoring), Ansible(Configuration Management) and automation using bash scripting, analyzing, designing, implementing and validating strategies for Continuous integration and Continuous deployment using different Tools and Technologies.
+
+- 🏢 **Wipro** – *Application Support Engineer*  
+   Involve in providing the first Line of Support as L1 support which includes log Calls, Query. Work on to run the day-to-day activities. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
+
+---
 
 
-Readme Links
-https://gprm.itsvg.in/
-https://profile-readme-generator.com/
-https://rahuldkjain.github.io/gh-profile-readme-generator/
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepakmani339-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepakmani339-lgtm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmani339-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deepakmani339-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=deepakmani339-lgtm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Thanks for visiting!
