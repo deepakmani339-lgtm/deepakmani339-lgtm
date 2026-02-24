@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://github.com/ManiDeepak/deepakmani339/blob/main/git_banner1.png" alt="GitHub Banner" width="800"/>
 </div>
-# 👋 Hi, I'm ManiDeepak Kovvuru
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ManiDeepak Kovvuru
+===========================================================================================================================================
+
+
 # 💫 About Me: 
  🌍 I'm based in hyderabad, India
  <br>* ✉️  You can contact me at [deepakmai339@gmail.com](mailto:deepakmai339@gmail.com)
