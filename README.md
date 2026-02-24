@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/ManiDeepak/deepakmani339/blob/main/git_banner1.png" alt="GitHub Banner" width="800"/>
 </div>
-# 👋 Hi, I'm ManiDeepak Kovvuru
+# **👋 Hi, I'm ManiDeepak Kovvuru******
 # 💫 About Me: 
  🌍 I'm based in hyderabad, India<br>* ✉️  You can contact me at [deepakmai339@gmail.com](mailto:deepakmai339@gmail.com)<br>* 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts, service meshes, and Kubernetes security for better orchestration and cluster management.
  As a Site Reliability Operation Engineer at Zeta, I contribute to enhancing cloud infrastructure security, reliability, and cost-efficiency through automation and monitoring advancements. My responsibilities include refactoring Helm charts to improve centralised alerting and cluster health checks, deploying code with the CMR process, and implementing tools such as Jenkins, ELK, Grafana, and Ansible to optimise CI/CD pipelines and ensure operational consistency. 
